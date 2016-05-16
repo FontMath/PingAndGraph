@@ -12,7 +12,7 @@ import org.jfree.chart.plot.PlotOrientation;
 import org.jfree.data.xy.XYDataset;
 import org.jfree.data.xy.XYSeries;
 import org.jfree.data.xy.XYSeriesCollection;
-
+import com.sun.jna.Pointer;
 // Sample class, copyright 2009 and beyond, icmp4j
 public class Sample {
 
